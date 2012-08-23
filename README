@@ -1,0 +1,13 @@
+Aug 23, 2012 3:52 pm
+   - Realized that malayalam.sixserve.net is gone. They apparently shutdown my space since there was no activity on to that server.
+   - Noticed only when I wanted to show it off to Murali Chundi when he was talking about Java and related languages.
+   - Last work was done around July 4, when I showed this to Subin, and he gave some good suggestions. But working on those never happened.
+   - May be it is time to put some effort again. 
+
+   - But this time I want to maintain a CVS like database - For the unknown, CVS is a version control system. something that keeps history of your revisions.
+   - github is something that will do this online, helps in collaborative revision control. So if Subin/Vinu wants to make some changes along with me, they can without having to email codes around. And also any previous revisions will be there, so you can also revert back to those if you accidentally mess up the files.
+   - Need to figure out a web hosting service that can also use github files directly. 
+
+
+
+    
