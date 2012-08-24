@@ -1,3 +1,12 @@
+Aug 23, 2012 4:21 pm
+   Q: Is there a way deploy a website directly from github or cloud9 ide?
+   A:  What webframework/language are you using? If you use RoR or Sinatra or any other rake-based framework you can use heroku.com. If your using asp.net you can use appharbor.com, finally if your using php you can use phpfog.com.
+
+       What these hosting providers have in common is that you deploy the website by pushing your code with git, while you won't be deploying directly from github you can just add one of the above mentioned hosts to your remote-list (in addition to github) and then push to that remote when you wish to deploy.
+
+       Another solution would be to add a post-receive-hook to github which then triggers whenever you push to github, in that post-recieve-hook you could tell the webhost to pull from the repo. This does however require you to have git installed on the webserver aswell as some kind of webinterface for the post-recieve-hook to post to.
+
+
 Aug 23, 2012 3:52 pm
    - Realized that malayalam.sixserve.net is gone. They apparently shutdown my space since there was no activity on to that server.
    - Noticed only when I wanted to show it off to Murali Chundi when he was talking about Java and related languages.
