@@ -1,3 +1,10 @@
+Aug 25, 2012 10:08 pm
+   - Setup an account with phpfog.com. Cloned their php app on to my machine using the help here.
+        http://docs.phpfog.com/getting-started/pf-command-line-tool
+   - Added top.php - last available version from sixserve.net
+   - http://malayalam.phpfogapp.com/top.php shows all undefined and no youtube video :(
+   - Should start fixing this next.
+
 Aug 23, 2012 4:21 pm
    Q: Is there a way deploy a website directly from github or cloud9 ide?
    A:  What webframework/language are you using? If you use RoR or Sinatra or any other rake-based framework you can use heroku.com. If your using asp.net you can use appharbor.com, finally if your using php you can use phpfog.com.
